@@ -11,26 +11,31 @@ This project involves a comprehensive exploratory data analysis (EDA) of a user 
 
 #### 👥 Gender Demographics
 * **User Count by Gender**
-  <img src="Plots/Count by gender.png" width="800">
   *A breakdown of the dataset showing the total number of male versus female participants.*
 
+  <img src="Plots/Count by gender.png" width="500">
+
 * **Average Age by Gender**
-  <img src="Plots/Average Age by Gender.png" width="800">
   *A comparison of the mean age across genders to identify demographic balance.*
+  
+  <img src="Plots/Average Age by Gender.png" width="500">
 
 #### 📏 Physical Attributes & Trends
 * **Height and Weight Distribution**
-  <img src="Plots/Height and Weight distribution.png" width="800">
   *Visualizing the spread and frequency of physical metrics across the user base.*
 
+  <img src="Plots/Height and Weight distribution.png" width="500">
+
 * **Relationship Between Age, Height, and Weight**
-  <img src="Plots/Relationship between age and height, weight.png" width="800">
   *Regression analysis exploring how age correlates with physical characteristics.*
+
+  <img src="Plots/Relationship between age and height, weight.png" width="500">
 
 #### 📍 Geographic Insights
 * **Top 10 Cities with Most Users**
-  <img src="Plots/Top 10 Cities with most users.png" width="800">
   *Identification of the primary urban hubs where the user population is most concentrated.*
+  
+  <img src="Plots/Top 10 Cities with most users.png" width="500">
 
 ---
 
